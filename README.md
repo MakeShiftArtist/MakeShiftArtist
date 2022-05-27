@@ -14,6 +14,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MakeShiftArtist?tab=repositories](https://github.com/MakeShiftArtist?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
+
+My Discord: [MakeShiftArtist#5012](https://discordapp.com/users/386839413935570954/)\
+My Bot's [support server](https://discord.gg/h95PPV2V)
 <p align="left">
 <a href="https://discord.gg/4WGpdmE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4WGpdmE" height="30" width="40" /></a>
 </p>

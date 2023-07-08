@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **why Rust is just better**
 
-- 📫 How to reach me **MakeShiftDeveloper@proton.me**
+- 📫 How to reach me **MakeShiftDevelopment@proton.me**
 
 - ⚡ Fun fact **Light mode attracts bugs!**
 

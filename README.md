@@ -1,11 +1,11 @@
 <body style="background-color: 282C34"><h1 align="center">Hi 👋, I'm MakeShiftArtist</h1>
-<!-- <h3 align="center">A passionate full stack developer who loves Rust and TypeScript</h3> -->
+<h3 align="center">A passionate full stack developer who loves Rust and TypeScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makeshiftartist&label=Profile%20views&color=0e75b6&style=flat" alt="makeshiftartist" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makeshiftartist&theme=onedark" alt="makeshiftartist" /></a> </p>
 
-- 🌱 I’m currently learning **PostgreSQL and Rocket**
+- 🌱 I’m currently learning **Yew and Web Assembly**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MakeShiftArtist](https://github.com/MakeShiftArtist?tab=repositories)
 
